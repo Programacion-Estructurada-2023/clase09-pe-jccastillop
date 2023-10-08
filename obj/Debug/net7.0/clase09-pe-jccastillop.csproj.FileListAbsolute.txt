@@ -1,0 +1,14 @@
+c:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\clase 9\clase09-pe-jccastillop\bin\Debug\net7.0\clase09-pe-jccastillop.exe
+c:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\clase 9\clase09-pe-jccastillop\bin\Debug\net7.0\clase09-pe-jccastillop.deps.json
+c:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\clase 9\clase09-pe-jccastillop\bin\Debug\net7.0\clase09-pe-jccastillop.runtimeconfig.json
+c:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\clase 9\clase09-pe-jccastillop\bin\Debug\net7.0\clase09-pe-jccastillop.dll
+c:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\clase 9\clase09-pe-jccastillop\bin\Debug\net7.0\clase09-pe-jccastillop.pdb
+c:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\clase 9\clase09-pe-jccastillop\obj\Debug\net7.0\clase09-pe-jccastillop.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\clase 9\clase09-pe-jccastillop\obj\Debug\net7.0\clase09-pe-jccastillop.AssemblyInfoInputs.cache
+c:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\clase 9\clase09-pe-jccastillop\obj\Debug\net7.0\clase09-pe-jccastillop.AssemblyInfo.cs
+c:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\clase 9\clase09-pe-jccastillop\obj\Debug\net7.0\clase09-pe-jccastillop.csproj.CoreCompileInputs.cache
+c:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\clase 9\clase09-pe-jccastillop\obj\Debug\net7.0\clase09-pe-jccastillop.dll
+c:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\clase 9\clase09-pe-jccastillop\obj\Debug\net7.0\refint\clase09-pe-jccastillop.dll
+c:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\clase 9\clase09-pe-jccastillop\obj\Debug\net7.0\clase09-pe-jccastillop.pdb
+c:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\clase 9\clase09-pe-jccastillop\obj\Debug\net7.0\clase09-pe-jccastillop.genruntimeconfig.cache
+c:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\clase 9\clase09-pe-jccastillop\obj\Debug\net7.0\ref\clase09-pe-jccastillop.dll
